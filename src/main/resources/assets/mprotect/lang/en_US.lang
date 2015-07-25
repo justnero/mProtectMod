@@ -1,0 +1,9 @@
+mprotect.debug.protects=§6Protects
+mprotect.debug.set=!§f - §6Set up §e/rset
+mprotect.debug.add=!§f - §6Add member §e/radd name
+mprotect.debug.delete=!§f - §6Delete member §e/rdel name
+mprotect.debug.info=!§f - §6Protect info §e/rinfo
+mprotect.debug.remove=!§f - §6Remove §e/rrem
+mprotect.debug.toggle=!§f - §6Toggle protect display on/off - §e%s
+mprotect.locked=§f - §4Protects are not loaded yet. Wait or try to reconnect.
+key.jet.display=Protects display

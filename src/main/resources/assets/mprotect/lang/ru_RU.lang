@@ -1,0 +1,9 @@
+mprotect.debug.protects=§6Протекты
+mprotect.debug.set=!§f - §6Установить §e/rset
+mprotect.debug.add=!§f - §6Добавить жителя §e/radd ник
+mprotect.debug.delete=!§f - §6Удалить жителя §e/rdel ник
+mprotect.debug.info=!§f - §6Информация о протекте §e/rinfo
+mprotect.debug.remove=!§f - §6Удалить §e/rrem
+mprotect.debug.toggle=!§f - §6Включить/Выключить показ протектов - §e%s
+mprotect.locked=§f - §4Протекты ещё не загрузились. Подождите немного, если не помогает перезайдите.
+key.jet.display=Отображение протектов
